@@ -1,0 +1,14 @@
+#recreo{
+    background-color: blue;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    background-color: rosybrown;
+}
+table{
+    width: 100%;
+}
+thead{
+    background-color: burlywood;
+}
